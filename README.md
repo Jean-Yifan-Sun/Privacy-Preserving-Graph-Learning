@@ -1,2 +1,2 @@
-#### Robust Graph Nerual Network with Differential Privacy --Updating
-Python implementation for RPGNN.
+#### Privacy-Preserving-Graph Nerual Network 
+Python implementation for PPGNN.
