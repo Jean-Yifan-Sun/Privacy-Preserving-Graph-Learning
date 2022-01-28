@@ -11,17 +11,9 @@ Python 3.8.5 and PyTorch 1.9.0.
 
 ### Run the code
 
-Step 1: 
-
-Step 2: 
-
-Step 3: 
-
-Step 4: 
-
-Step 5: 
-
-Step 6: 
+```
+Update later
+```
 
 ### Citation
 ```
