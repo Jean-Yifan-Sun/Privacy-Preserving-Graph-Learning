@@ -16,7 +16,7 @@ This directory includes four .py files, the instructions are as follows:
 
 - Run the script load_data.py to load datasets and convert the format.
 
-- Run the script original_GCN.py to classify nodes by using standard GCN model.
+- Run the script standard.py to classify nodes by using standard GCN model.
 
 - Run the script model.py to classify nodes by using DPGCN model.
 
