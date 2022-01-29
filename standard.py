@@ -9,8 +9,7 @@ from torch.nn.modules.module import Module
 from deeprobust.graph import utils
 from copy import deepcopy
 from sklearn.metrics import f1_score
-
-        
+     
 class GraphConvolution(Module):
 
     def __init__(self, in_features, out_features, with_bias=True):
@@ -48,7 +47,6 @@ class GraphConvolution(Module):
         return self.__class__.__name__ + ' (' \
                + str(self.in_features) + ' -> ' \
                + str(self.out_features) + ')'
-
 
 class GCN(nn.Module):
     def __init__(self, nfeat, nhid, nclass, dropout=0.5, lr=0.01, weight_decay=5e-4, with_relu=True, with_bias=True, device=None):
