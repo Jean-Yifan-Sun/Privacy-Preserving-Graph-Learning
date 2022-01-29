@@ -12,7 +12,15 @@ Python 3.8.5 and PyTorch 1.9.0.
 ### Run the code
 
 ```
-Update later
+This directory includes four .py files, the instructions are as follows:
+
+-load_data.py: load datasets and convert the format.
+
+-Original_GCN.py: Standard GCN implementation.
+
+-model.py: DPGCN model implementation.
+
+-main.py: call all functions.
 ```
 
 ### Citation
