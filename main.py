@@ -110,13 +110,3 @@ pgcn = DPGCN(model, args, device)
 pgcn.fit(features,adj,S1,S2,labels,sens,idx_train, idx_validate,idx_test,idx_sensitive,idx_nosensitive,sen_attr_index)
 pgcn.test(features,adj,labels,idx_test,sen_attr_index)  
 pgcn.infer(features,adj,sen_attr_index,idx_sensitive,idx_nosensitive,sens)  
-
-
- 
- 
-
-
-
-
-
-
