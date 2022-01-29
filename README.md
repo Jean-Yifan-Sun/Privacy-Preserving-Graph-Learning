@@ -14,13 +14,13 @@ Python 3.8.5 and PyTorch 1.9.0.
 ```
 This directory includes four .py files, the instructions are as follows:
 
--load_data.py: load datasets and convert the format.
+- Run the script load_data.py to load datasets and convert the format.
 
--Original_GCN.py: Standard GCN implementation.
+- Run the script original_GCN.py to classify nodes by using standard GCN model.
 
--model.py: DPGCN model implementation.
+- Run the script model.py to classify nodes by using DPGCN model.
 
--main.py: call all functions.
+- Run the script main.py to call all functions.
 ```
 
 ### Citation
