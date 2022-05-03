@@ -25,6 +25,13 @@ This directory includes four .py files, the instructions are as follows:
 
 ### Citation
 ```
-Update later
+@inproceedings{hu2022learning,
+  title={Learning Privacy-Preserving Graph Convolutional Network with Partially Observed Sensitive Attributes},
+  author={Hu, Hui and Cheng, Lu and Vap, Jayden Parker and Borowczak, Mike},
+  booktitle={Proceedings of the ACM Web Conference 2022},
+  pages={3552--3561},
+  year={2022}
+}
+
 ```
 
