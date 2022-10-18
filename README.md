@@ -1,3 +1,5 @@
+This repository is to explore privacy-preserving graph learning.
+
 Python implementation of privacy-preserving graph learning:
 
 1. Learning Privacy-Preserving Graph Convolutional Network with Partially Observed Sensitive Attributes (WWW-2022)[[Link]](https://dl.acm.org/doi/10.1145/3485447.3511975).
