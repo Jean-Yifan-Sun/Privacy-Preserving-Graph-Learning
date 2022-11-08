@@ -1,12 +1,12 @@
-This repository is to explore privacy-preserving graph learning.
+This repository aims to record the related work on privacy-preserving graph learning.
 
 Python implementation of privacy-preserving graph learning:
 
-1. Learning Privacy-Preserving Graph Convolutional Network with Partially Observed Sensitive Attributes (WWW-2022)[[Link]](https://dl.acm.org/doi/10.1145/3485447.3511975).
+1. Learning Privacy-Preserving Graph Convolutional Network with Partially Observed Sensitive Attributes (WWW-2022)[[Paper]](https://dl.acm.org/doi/10.1145/3485447.3511975).
 
-2. Preserving Dual-Privacy on Graph Neural Networks via Adversarial Learning (WSDM-2023) (Link).
+2. Preserving Dual-Privacy on Graph Neural Networks via Adversarial Learning (WSDM-2023) (Paper).
 
-3. Privacy-Preserving Graph Auto-encoder (Link).
+3. Privacy-Preserving Graph Auto-encoder (Paper).
 
 ### Abstract
 Recent studies have shown Graph Neural Networks (GNNs) are extremely vulnerable to attribute inference attacks. To tackle this challenge, existing privacy-preserving GNNs research assumes that the sensitive attributes of all users are known beforehand. However, due to different privacy preferences, some users (i.e., private users) may prefer not to reveal sensitive information that others (i.e., non-private users) would not mind disclosing. For example, in social networks, male users are typically less sensitive to their age information than female users. The age disclosure of male users can lead to the age information of female users in the network exposed. This is partly because social media users are connected, the homophily property and message-passing mechanism of GNNs can exacerbate individual privacy leakage. In this work, we study a novel and practical problem of learning privacy-preserving GNNs with partially observed sensitive attributes.
